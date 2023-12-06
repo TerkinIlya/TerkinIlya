@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, my name is Ilya!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Data analyst interested in data science &#128104;&#8205;&#128300;</h3>
 
 <!--
 **TerkinIlya/TerkinIlya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
