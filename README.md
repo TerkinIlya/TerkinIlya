@@ -13,9 +13,8 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://giphy.com/embed/lJNoBCvQYp7nq" width="600" height="300">
+  <img src="https://i.yapx.cc/VakAM.gif" width="600" height="300">
 </div>
-
 
 
 
