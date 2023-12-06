@@ -13,7 +13,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="<iframe src="https://giphy.com/embed/lJNoBCvQYp7nq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reddit-doing-lJNoBCvQYp7nq">via GIPHY</a></p>" width="600" height="300"/>
+  <img src="https://giphy.com/embed/lJNoBCvQYp7nq" width="600" height="300">
 </div>
 
 
