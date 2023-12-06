@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, my name is Ilya!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a data analyst interested in data science &#128104;&#8205;&#128300;</h3>
-<h3 align="center"> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</h3>
+<img src="https://camo.githubusercontent.com/7d233d96a0b7addb7e558736b4e2f06129addfe7bd3d8a74b5d4da92f4746567/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" height="20" data-canonical-src="https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 
 ### My skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 	![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
