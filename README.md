@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a data analyst interested in data science &#128104;&#8205;&#128300;</h3>
 
-<div id="gif" align="center">
+<div id="gif" align="right">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" height="300"/>
 </div>
 
