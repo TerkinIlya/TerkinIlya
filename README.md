@@ -1,23 +1,26 @@
 <h1 align="center">Hi there, my name is Ilya!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a data analyst interested in data science &#128104;&#8205;&#128300;</h3>
-<div id="badges" align="center">
+
+<div id="gif" align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="550" height="300"/>
+</div>
+
+<div id="badges">
+  <h3>
+    Сontact with me:
+  </h3>
   <a href="https://t.me/Ilya_Terkin">
     <img src="https://camo.githubusercontent.com/cf4ed981404024c1adfc79d5575c4edf1836c4fe36b24b03383ece888cef7e29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
   <a href="mailto:fedotov.analyst@gmail.com">
     <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
   </a>
 </div>
-
-
-<div id="gif" align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="550" height="300"/>
-</div>
-
+    
 <div id="socials">
-  <h1>
+  <h3>
     My socials:
-  </h1>
+  </h3>
   <a href="https://stepik.org/users/405593976/">
     <img src="https://camo.githubusercontent.com/79f0344834d3d4938ae2648a4fbdea00124b77ec4520c7beb1771a1d00fc0f40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53746570696b2d626c61636b3f7374796c653d666c6174266c6f676f3d53544d6963726f656c656374726f6e696373266c6f676f436f6c6f723d7768697465">
   </a>
