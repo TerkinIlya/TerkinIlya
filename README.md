@@ -21,6 +21,9 @@
   <h3>
     My socials:
   </h3>
+  <a href="https://www.linkedin.com/in/ilya-fedotov-9bb4752a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9PXIdoigQlW%2FuLy0hogL9Q%3D%3D">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
   <a href="https://stepik.org/users/405593976/">
    <img alt="Static Badge" src="https://img.shields.io/badge/Stepik-black?style=for-the-badge">
   </a>
