@@ -22,7 +22,7 @@
     My socials:
   </h3>
   <a href="https://stepik.org/users/405593976/">
-   <img alt="Static Badge" src="https://img.shields.io/badge/Stepik-black&style=for-the-badge">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Stepik-black?style=for-the-badge">
   </a>
   <a href="https://www.kaggle.com/ilyaterkin">
     <img
